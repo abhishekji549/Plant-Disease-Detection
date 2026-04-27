@@ -1,0 +1,7 @@
+plant_disease_model.pth
+Dataset/
+uploadimages/
+__pycache__/
+*.pyc
+.env
+venv/

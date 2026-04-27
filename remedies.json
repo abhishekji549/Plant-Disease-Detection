@@ -1,0 +1,62 @@
+{
+  "Cabbage_Alternia_Leaf_Spot": {
+    "cause": "Fungus (Alternaria brassicicola) mostly due to high humidity.",
+    "remedy": "Use copper-based fungicides and avoid overhead watering."
+  },
+  "Cabbage_Aphid_Colony": {
+    "cause": "Small insects (Aphids) sucking sap from the leaves.",
+    "remedy": "Spray neem oil or use a strong water stream to wash them off."
+  },
+  "Cabbage_Healthy": {
+    "cause": "None",
+    "remedy": "Maintain regular watering and proper sunlight."
+  },
+  "Cabbage_Ring_Spot": {
+    "cause": "Fungal infection causing circular spots with dark borders.",
+    "remedy": "Remove infected leaves and apply balanced fertilizer."
+  },
+  "Malabar_Healthy": {
+    "cause": "None",
+    "remedy": "Provide a trellis for climbing and keep soil moist."
+  },
+  "Malabar_Anthracnose": {
+    "cause": "Fungal pathogen causing dark, sunken lesions.",
+    "remedy": "Improve air circulation and use fungicide if necessary."
+  },
+  "Malabar_Bactorial_Spot": {
+    "cause": "Bacterial infection spreading through water splashes.",
+    "remedy": "Avoid touching plants when wet; use bactericides."
+  },
+  "Malabar_PestDamage": {
+    "cause": "Local insects or beetles feeding on leaves.",
+    "remedy": "Use organic pest control or hand-pick larger pests."
+  },
+  "Potato_EarlyBlight": {
+    "cause": "Fungus (Alternaria solani) during warm, humid weather.",
+    "remedy": "Apply Mancozeb or chlorothalonil fungicides."
+  },
+  "Potato_Healthy": {
+    "cause": "None",
+    "remedy": "Ensure proper hilling and nitrogen balance."
+  },
+  "Potato_LaterBlight": {
+    "cause": "Water mold (Phytophthora infestans). Very dangerous.",
+    "remedy": "Immediately remove infected plants and spray specialized fungicides."
+  },
+  "Radish_Black_Leaf_Spot": {
+    "cause": "Fungal infection causing small dark spots on radish leaves.",
+    "remedy": "Rotate crops and use disease-free seeds."
+  },
+  "Radish_Flea_Beetle": {
+    "cause": "Small beetles creating tiny 'shotholes' in leaves.",
+    "remedy": "Use row covers or apply neem-based insecticides."
+  },
+  "Radish_Healthy": {
+    "cause": "None",
+    "remedy": "Keep soil loose and weed-free for good root growth."
+  },
+  "Radish_Mosaic_Virus": {
+    "cause": "Viral infection often spread by aphids.",
+    "remedy": "Control aphids; infected plants must be removed and destroyed."
+  }
+}
